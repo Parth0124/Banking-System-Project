@@ -1,4 +1,3 @@
-//A banking system project made out of c++ applying the concepts of oop 
 #include <iostream>
 #include <vector>
 using namespace std;
